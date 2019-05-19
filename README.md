@@ -1,5 +1,7 @@
 # Victor Hugo
 
+## Fork for deploying to Spiral Learning web site.
+
 **A Hugo boilerplate for creating truly epic websites**
 
 This is a boilerplate for using [Hugo](https://gohugo.io/) as a static site generator and [Webpack](https://webpack.js.org/) as your asset pipeline.
@@ -111,6 +113,6 @@ Now Netlify will build and deploy your site whenever you push to git.
 
 You can also click this button:
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify/victor-hugo)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/spiral-learning/victor-hugo)
 
 ## Enjoy!! 😸
